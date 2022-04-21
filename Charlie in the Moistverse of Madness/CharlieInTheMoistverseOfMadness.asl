@@ -1,4 +1,4 @@
-//sloppy
+//sloppy but written by TY
 
 state("MoistCriticalGame-Win64-Shipping")
 {
